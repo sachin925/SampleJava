@@ -1,3 +1,5 @@
+package src;
+
 public class Sample {
     int var = 10;
     static int stat = 20;

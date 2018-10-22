@@ -1,3 +1,5 @@
 .javac
 vcs.xml
 .xml
+.idea/*
+.idea
